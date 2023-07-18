@@ -1,10 +1,10 @@
 
 ## Index
-1. [What is](#What-is)
-2. [Dependencies](#Dependencies)
-3. [Configuration](#Configuration)
-4. [Commands](#Commands)
-5. [Download](#Download)
+1. [What is](#what-is)
+2. [Dependencies](#dependencies)
+3. [Configuration](#configuration)
+4. [Commands](#commands)
+5. [Download](#download)
 
 
 ### What is
@@ -21,16 +21,18 @@ The configuration is simple:
 - Make sure that Git is configured for a remote repository in that folder
 - Done 😎
 
-![Config](https://user-images.githubusercontent.com/22590804/231791505-5f6fd90a-afdd-410d-830c-3c7952fc933e.png)
+![Config](https://gitlab.com/simonemargio/Alfred-Obsidian-Backup-wGit/uploads/8a157120d2b8fae177b4983cb1e05b39/config.png)
 
-### Command
-- *ob*: backs up all changed files
+### Commands
+- *ob*: backs up all changed files  
 
-![Backup](https://user-images.githubusercontent.com/22590804/231786532-9148ce43-f1c5-4053-bb46-6f7d194529c9.png)
+![Backup](https://gitlab.com/simonemargio/Alfred-Obsidian-Backup-wGit/uploads/2b51effcbc1ed74f420d5a246efd4b06/Backup.png)
+
 
 Backup notifications:  
-![Saved](https://user-images.githubusercontent.com/22590804/231786545-83cbbc29-5ecf-4e0f-aab3-6e6c9c65baaa.png)
-![Done](https://user-images.githubusercontent.com/22590804/231786541-7dafacf9-caef-49bc-bbbc-1a7933af3880.png)
+![NotifySaved](https://gitlab.com/simonemargio/Alfred-Obsidian-Backup-wGit/uploads/8d60e054b2c99aa0007904281c639506/NotifySaved.png)  
+
+![NotifyDone](https://gitlab.com/simonemargio/Alfred-Obsidian-Backup-wGit/uploads/b7d920cefae4c6420290b0e57268d62e/NotifyDone.png)
 
 ### Download
-Latest release: [here](https://github.com/simonemargio/Alfred-Obsidian-Backup-wGit/releases/tag/v1.0.0)
+Latest release: [here](https://gitlab.com/simonemargio/Alfred-Obsidian-Backup-wGit/-/releases/v1.0.0)
